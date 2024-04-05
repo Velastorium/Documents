@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|c:\\users\\usuario\\documents\\tallerpoon2\\punto1poo\\punto1poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|solutionrelative:punto1poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|c:\\users\\usuario\\documents\\tallerpoon2\\punto1poo\\punto1poo\\tripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|solutionrelative:punto1poo\\tripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|c:\\users\\usuario\\documents\\tallerpoon2\\punto1poo\\punto1poo\\marinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|solutionrelative:punto1poo\\marinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|c:\\users\\usuario\\documents\\tallerpoon2\\punto1poo\\punto1poo\\jefe_de_flota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|solutionrelative:punto1poo\\jefe_de_flota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|c:\\users\\usuario\\documents\\tallerpoon2\\punto1poo\\punto1poo\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|solutionrelative:punto1poo\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|c:\\users\\usuario\\documents\\tallerpoon2\\punto1poo\\punto1poo\\capitan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|solutionrelative:punto1poo\\capitan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|c:\\users\\usuario\\documents\\tallerpoon2\\punto1poo\\punto1poo\\gps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5702B0-5AD4-4769-969E-963839CD8F2A}|Punto1POO\\Punto1POO.csproj|solutionrelative:punto1poo\\gps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Marinero.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Marinero.cs",
+              "RelativeDocumentMoniker": "Punto1POO\\Marinero.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Marinero.cs",
+              "RelativeToolTip": "Punto1POO\\Marinero.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:06:37.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jefe_De_Flota.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Jefe_De_Flota.cs",
+              "RelativeDocumentMoniker": "Punto1POO\\Jefe_De_Flota.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Jefe_De_Flota.cs",
+              "RelativeToolTip": "Punto1POO\\Jefe_De_Flota.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:06:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Capitan.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Capitan.cs",
+              "RelativeDocumentMoniker": "Punto1POO\\Capitan.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Capitan.cs",
+              "RelativeToolTip": "Punto1POO\\Capitan.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:05:57.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tripulante.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Tripulante.cs",
+              "RelativeDocumentMoniker": "Punto1POO\\Tripulante.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Tripulante.cs",
+              "RelativeToolTip": "Punto1POO\\Tripulante.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:05:40.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GPS.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\GPS.cs",
+              "RelativeDocumentMoniker": "Punto1POO\\GPS.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\GPS.cs",
+              "RelativeToolTip": "Punto1POO\\GPS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:05:23.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Barco.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Barco.cs",
+              "RelativeDocumentMoniker": "Punto1POO\\Barco.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Barco.cs",
+              "RelativeToolTip": "Punto1POO\\Barco.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:04:49.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Program.cs",
+              "RelativeDocumentMoniker": "Punto1POO\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\TallerPOON2\\Punto1POO\\Punto1POO\\Program.cs",
+              "RelativeToolTip": "Punto1POO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:04:12.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

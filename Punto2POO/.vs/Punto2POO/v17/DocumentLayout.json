@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Punto2POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{320E46D2-4D2C-466B-8987-ADCD3CE2688C}|Punto2POO\\Punto2POO.csproj|c:\\users\\usuario\\source\\repos\\punto2poo\\punto2poo\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320E46D2-4D2C-466B-8987-ADCD3CE2688C}|Punto2POO\\Punto2POO.csproj|solutionrelative:punto2poo\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320E46D2-4D2C-466B-8987-ADCD3CE2688C}|Punto2POO\\Punto2POO.csproj|c:\\users\\usuario\\source\\repos\\punto2poo\\punto2poo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320E46D2-4D2C-466B-8987-ADCD3CE2688C}|Punto2POO\\Punto2POO.csproj|solutionrelative:punto2poo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320E46D2-4D2C-466B-8987-ADCD3CE2688C}|Punto2POO\\Punto2POO.csproj|c:\\users\\usuario\\source\\repos\\punto2poo\\punto2poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320E46D2-4D2C-466B-8987-ADCD3CE2688C}|Punto2POO\\Punto2POO.csproj|solutionrelative:punto2poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320E46D2-4D2C-466B-8987-ADCD3CE2688C}|Punto2POO\\Punto2POO.csproj|c:\\users\\usuario\\source\\repos\\punto2poo\\punto2poo\\secretario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320E46D2-4D2C-466B-8987-ADCD3CE2688C}|Punto2POO\\Punto2POO.csproj|solutionrelative:punto2poo\\secretario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto2POO\\Punto2POO\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Punto2POO\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto2POO\\Punto2POO\\Vendedor.cs",
+              "RelativeToolTip": "Punto2POO\\Vendedor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:24:29.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Secretario.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto2POO\\Punto2POO\\Secretario.cs",
+              "RelativeDocumentMoniker": "Punto2POO\\Secretario.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto2POO\\Punto2POO\\Secretario.cs",
+              "RelativeToolTip": "Punto2POO\\Secretario.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:24:17.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto2POO\\Punto2POO\\Empleado.cs",
+              "RelativeDocumentMoniker": "Punto2POO\\Empleado.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto2POO\\Punto2POO\\Empleado.cs",
+              "RelativeToolTip": "Punto2POO\\Empleado.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:23:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto2POO\\Punto2POO\\Program.cs",
+              "RelativeDocumentMoniker": "Punto2POO\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto2POO\\Punto2POO\\Program.cs",
+              "RelativeToolTip": "Punto2POO\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:46:07.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\bin\Debug\net8.0\Punto1POO.exe
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\bin\Debug\net8.0\Punto1POO.deps.json
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\bin\Debug\net8.0\Punto1POO.runtimeconfig.json
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\bin\Debug\net8.0\Punto1POO.dll
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\bin\Debug\net8.0\Punto1POO.pdb
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\obj\Debug\net8.0\Punto1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\obj\Debug\net8.0\Punto1POO.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\obj\Debug\net8.0\Punto1POO.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\obj\Debug\net8.0\Punto1POO.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\obj\Debug\net8.0\Punto1POO.dll
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\obj\Debug\net8.0\refint\Punto1POO.dll
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\obj\Debug\net8.0\Punto1POO.pdb
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\obj\Debug\net8.0\Punto1POO.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Punto1POO\Punto1POO\obj\Debug\net8.0\ref\Punto1POO.dll

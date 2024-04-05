@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\remolque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\remolque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\demasiadorapidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\demasiadorapidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\secretario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\secretario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\jefezona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\jefezona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|c:\\users\\usuario\\source\\repos\\punto3poo\\punto3poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D98A957-FCDE-4835-B193-FE4402E95D8C}|Punto3POO\\Punto3POO.csproj|solutionrelative:punto3poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemasiadoRapidoException.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\DemasiadoRapidoException.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\DemasiadoRapidoException.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\DemasiadoRapidoException.cs",
+              "RelativeToolTip": "Punto3POO\\DemasiadoRapidoException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:52:19.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Camion.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\Camion.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Camion.cs",
+              "RelativeToolTip": "Punto3POO\\Camion.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:51:42.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Empleado.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\Empleado.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Empleado.cs",
+              "RelativeToolTip": "Punto3POO\\Empleado.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:48:59.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Vendedor.cs",
+              "RelativeToolTip": "Punto3POO\\Vendedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:37:45.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Vehiculo.cs",
+              "RelativeToolTip": "Punto3POO\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:37:44.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Secretario.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Secretario.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\Secretario.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Secretario.cs",
+              "RelativeToolTip": "Punto3POO\\Secretario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:37:43.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Remolque.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Remolque.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\Remolque.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Remolque.cs",
+              "RelativeToolTip": "Punto3POO\\Remolque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:37:42.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JefeZona.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\JefeZona.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\JefeZona.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\JefeZona.cs",
+              "RelativeToolTip": "Punto3POO\\JefeZona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:37:40.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Coche.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\Coche.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Coche.cs",
+              "RelativeToolTip": "Punto3POO\\Coche.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:37:36.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Program.cs",
+              "RelativeDocumentMoniker": "Punto3POO\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Punto3POO\\Punto3POO\\Program.cs",
+              "RelativeToolTip": "Punto3POO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:01:44.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
